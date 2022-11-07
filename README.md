@@ -1,2 +1,3 @@
-# html-css
-Projects I built using html/css
+Technical documentation page
+I built this project using html/css
+
